@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Ils nous font confiance
-    subtitle: Grid Section Example
+    subtitle: Nous avons travaillé pour de grands groupes
     align: center
     grid_items:
       - image: images/logo-1.svg
